@@ -1,0 +1,4 @@
+C:\Users\DUY\source\repos\quan li doi tuong\quan li doi tuong\obj\Debug\netcoreapp3.1\quan li doi tuong.csprojAssemblyReference.cache
+C:\Users\DUY\source\repos\quan li doi tuong\quan li doi tuong\obj\Debug\netcoreapp3.1\quan li doi tuong.AssemblyInfoInputs.cache
+C:\Users\DUY\source\repos\quan li doi tuong\quan li doi tuong\obj\Debug\netcoreapp3.1\quan li doi tuong.AssemblyInfo.cs
+C:\Users\DUY\source\repos\quan li doi tuong\quan li doi tuong\obj\Debug\netcoreapp3.1\quan li doi tuong.csproj.CoreCompileInputs.cache
